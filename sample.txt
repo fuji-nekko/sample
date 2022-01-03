@@ -1,2 +1,3 @@
 Hello Git!
 This is sample text.
+Change text.
